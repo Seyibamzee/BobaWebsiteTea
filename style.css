@@ -1,0 +1,11 @@
+@font-face{font-family: Bumbazoid;}
+
+
+img{
+    width:200px;
+}
+body{
+    text-align:center;
+    background-color:rgba(254, 198, 204);
+font-family: Bumbazoid;
+}
